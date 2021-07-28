@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hrishagni
 - 👀 I’m interested in football and cooking anything out of the ordinary
-- 🌱 I’m currently learning data science and I have 3+ years of experience in software development
+- 🌱 I’m currently learning data science and I have 3+ years of experience in data science + software development
 - 📫 You can reach me at hrishagni95@gmail.com
 
 <!---
